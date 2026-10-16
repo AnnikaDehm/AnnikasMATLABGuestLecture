@@ -1,5 +1,6 @@
 # Beginner MATLAB Image Analysis - Annikas Version
 
+This is a dummy change.
 This repository is a small practice project for the *Modern Optronics
 Workflows* guest lectures at Hochschule Aalen.
 
